@@ -3,11 +3,8 @@
 	"name": "Grumpy Cat",
 	"pet": [
 		{
-			"name": "sri sri\n",
-			"birthday": "1989-07-16"
-		},
-		{
-			"name": "Dog\n"
+			"name": "Adam Catlace",
+			"birthday": "2014-06-01"
 		}
 	],
 	"twitter": "https://twitter.com/RealGrumpyCat",
